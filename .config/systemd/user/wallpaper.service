@@ -1,0 +1,6 @@
+[Unit]
+Description=Load a random wallpaper and colorscheme
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/wal -i %h/Pictures/wallpapers -a 85

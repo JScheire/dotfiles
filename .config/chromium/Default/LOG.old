@@ -1,0 +1,5 @@
+2019/10/09-15:56:03.463 24cc Recovering log #35
+2019/10/09-15:56:03.463 24cc Level-0 table #37: started
+2019/10/09-15:56:03.466 24cc Level-0 table #37: 5755 bytes OK
+2019/10/09-15:56:03.477 24cc Delete type=0 #35
+2019/10/09-15:56:03.477 24cc Delete type=3 #33

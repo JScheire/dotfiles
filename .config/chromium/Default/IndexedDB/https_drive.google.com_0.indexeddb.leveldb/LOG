@@ -1,0 +1,15 @@
+2019/10/09-15:54:42.870 24c1 Reusing MANIFEST /home/jacques/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/09-15:54:42.870 24c1 Recovering log #40
+2019/10/09-15:54:42.886 24c1 Reusing old log /home/jacques/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000040.log 
+2019/10/09-15:54:51.899 2644 Level-0 table #44: started
+2019/10/09-15:54:51.916 2644 Level-0 table #44: 4484348 bytes OK
+2019/10/09-15:54:51.923 2644 Delete type=0 #40
+2019/10/09-15:54:51.924 2644 Compacting 4@0 + 1@1 files
+2019/10/09-15:54:51.937 2644 Generated table #45@0: 23 keys, 655788 bytes
+2019/10/09-15:54:51.937 2644 Compacted 4@0 + 1@1 files => 655788 bytes
+2019/10/09-15:54:51.946 2644 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/09-15:54:51.946 2644 Delete type=2 #44
+2019/10/09-15:54:51.947 2644 Delete type=2 #35
+2019/10/09-15:54:51.947 2644 Delete type=2 #33
+2019/10/09-15:54:51.948 2644 Delete type=2 #41
+2019/10/09-15:54:51.948 2644 Delete type=2 #38

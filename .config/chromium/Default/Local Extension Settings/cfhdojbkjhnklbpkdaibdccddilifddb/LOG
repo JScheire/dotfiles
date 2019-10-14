@@ -1,0 +1,43 @@
+2019/10/14-08:31:11.481 510 Reusing MANIFEST /home/jacques/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2019/10/14-08:31:11.481 510 Recovering log #159
+2019/10/14-08:31:11.544 510 Level-0 table #162: started
+2019/10/14-08:31:11.647 510 Level-0 table #162: 4476539 bytes OK
+2019/10/14-08:31:11.662 510 Delete type=0 #159
+2019/10/14-08:32:12.457 65c Level-0 table #165: started
+2019/10/14-08:32:12.508 65c Level-0 table #165: 4476535 bytes OK
+2019/10/14-08:32:12.513 65c Delete type=0 #163
+2019/10/14-08:32:16.601 65c Level-0 table #167: started
+2019/10/14-08:32:16.659 65c Level-0 table #167: 4476848 bytes OK
+2019/10/14-08:32:16.664 65c Delete type=0 #164
+2019/10/14-08:32:16.665 65c Compacting 4@0 + 2@1 files
+2019/10/14-08:32:16.774 65c Generated table #168@0: 1 keys, 4476535 bytes
+2019/10/14-08:32:16.779 65c Generated table #169@0: 5 keys, 455 bytes
+2019/10/14-08:32:16.779 65c Compacted 4@0 + 2@1 files => 4476990 bytes
+2019/10/14-08:32:16.785 65c compacted to: files[ 0 2 0 0 0 0 0 ]
+2019/10/14-08:32:16.785 65c Delete type=2 #160
+2019/10/14-08:32:16.785 65c Delete type=2 #158
+2019/10/14-08:32:16.785 65c Delete type=2 #157
+2019/10/14-08:32:16.786 65c Delete type=2 #167
+2019/10/14-08:32:16.786 65c Delete type=2 #165
+2019/10/14-08:32:16.786 65c Delete type=2 #162
+2019/10/14-08:32:17.882 65c Level-0 table #171: started
+2019/10/14-08:32:17.940 65c Level-0 table #171: 4484387 bytes OK
+2019/10/14-08:32:17.945 65c Delete type=0 #166
+2019/10/14-08:32:25.442 65c Level-0 table #173: started
+2019/10/14-08:32:25.504 65c Level-0 table #173: 4484387 bytes OK
+2019/10/14-08:32:25.508 65c Delete type=0 #170
+2019/10/14-08:32:26.720 65c Level-0 table #175: started
+2019/10/14-08:32:26.781 65c Level-0 table #175: 4483879 bytes OK
+2019/10/14-08:32:26.785 65c Delete type=0 #172
+2019/10/14-08:46:12.821 65c Level-0 table #177: started
+2019/10/14-08:46:13.013 65c Level-0 table #177: 4483879 bytes OK
+2019/10/14-08:46:13.018 65c Delete type=0 #174
+2019/10/14-08:46:13.018 65c Compacting 4@0 + 1@1 files
+2019/10/14-08:46:13.305 65c Generated table #178@0: 1 keys, 4483879 bytes
+2019/10/14-08:46:13.307 65c Compacted 4@0 + 1@1 files => 4483879 bytes
+2019/10/14-08:46:13.313 65c compacted to: files[ 0 2 0 0 0 0 0 ]
+2019/10/14-08:46:13.313 65c Delete type=2 #175
+2019/10/14-08:46:13.315 65c Delete type=2 #168
+2019/10/14-08:46:13.318 65c Delete type=2 #173
+2019/10/14-08:46:13.318 65c Delete type=2 #171
+2019/10/14-08:46:13.319 65c Delete type=2 #177

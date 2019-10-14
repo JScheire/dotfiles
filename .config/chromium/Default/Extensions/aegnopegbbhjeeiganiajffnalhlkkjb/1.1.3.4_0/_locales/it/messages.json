@@ -1,0 +1,99 @@
+{
+   "backToResult": {
+      "message": "Back to Results"
+   },
+   "checkedSites": {
+      "description": "Site results title",
+      "message": "SITI CONTROLLATI"
+   },
+   "credits": {
+      "description": "In the help page",
+      "message": "Crediti"
+   },
+   "extName": {
+      "description": "Extension name.",
+      "message": "by Adaware"
+   },
+   "extShortDesc": {
+      "description": "This will be in the chrome web store: must be 132 characters or less",
+      "message": "Cerca nel web"
+   },
+   "language": {
+      "message": "linguaggio"
+   },
+   "onboardingDescription1": {
+      "description": "onboarding popup slide one",
+      "message": "Per aiutarti a evitare siti dannosi, questa estensione visita per te questi siti nei risultati della ricerca. Poi, visualizzerà solo i veri link torrent presi da questi risultati."
+   },
+   "onboardingDescription2": {
+      "description": "onboarding popup slide two",
+      "message": "Fai clic sul pulsante play e la tua app per torrent prenderà il controllo. Puoi usare uno dei due:"
+   },
+   "onboardingDescription2a": {
+      "description": "onboarding popup slide two",
+      "message": "Magnet Link"
+   },
+   "onboardingDescription2b": {
+      "description": "onboarding popup slide two",
+      "message": "Più veloce, fai clic quando disponibile."
+   },
+   "onboardingDescription2c": {
+      "description": "onboarding popup slide two",
+      "message": "File Link"
+   },
+   "onboardingDescription2d": {
+      "description": "onboarding popup slide two",
+      "message": "Scarica e apri questi."
+   },
+   "onboardingDescription3": {
+      "description": "onboarding popup slide three",
+      "message": "Non hai trovato quello che volevi? Cerca di nuovo utilizzando la casella in cima alla lista."
+   },
+   "onboardingHeadline1": {
+      "description": "onboarding popup slide one",
+      "message": "Benvenuto nella Safe Torrent Scanner"
+   },
+   "onboardingHeadline2": {
+      "description": "onboarding popup slide two",
+      "message": "Segui il Pulsante Verde"
+   },
+   "onboardingHeadline3": {
+      "description": "onboarding popup slide three",
+      "message": "Usa la Casella di ricerca"
+   },
+   "onboardingSubhead1": {
+      "description": "onboarding popup slide one",
+      "message": "Intelligente, Ricerca veloce"
+   },
+   "onboardingSubhead2": {
+      "description": "onboarding popup slide two",
+      "message": "Fai clic su Play"
+   },
+   "onboardingSubhead3": {
+      "description": "onboarding popup slide three",
+      "message": "Casella di ricerca"
+   },
+   "play": {
+      "description": "Torrent add button",
+      "message": "Play"
+   },
+   "responseUser": {
+      "description": "As a response to the user",
+      "message": "Capito!"
+   },
+   "scannedResults": {
+      "description": "Results counter",
+      "message": "risultati sottoposti a scansione"
+   },
+   "searchBar": {
+      "description": "Search bar help text",
+      "message": "Cerca nel web"
+   },
+   "settings": {
+      "message": "Impostazioni"
+   },
+   "tipp": {
+      "description": "tip",
+      "message": "Suggerimento: aggiungere la parola \"torrent\" è utile per la ricerca."
+   }
+}

@@ -1,0 +1,18 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 720=680
+State=AAAA/wAAAAD9AAAAAAAAAZcAAAJeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=407
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/51223-FullSolutions_Ch02 (1).pdf
+File2[$e]=$HOME/Downloads/current-handbook.pdf
+File3[$e]=$HOME/Downloads/Course-MalwareAnalysis-and-Reverse-Engineering.pdf
+File4[$e]=$HOME/Downloads/F19 _332-221_ CH 3.pdf
+Name1[$e]=51223-FullSolutions_Ch02 (1).pdf
+Name2[$e]=current-handbook.pdf
+Name3[$e]=Course-MalwareAnalysis-and-Reverse-Engineering.pdf
+Name4[$e]=F19 _332-221_ CH 3.pdf

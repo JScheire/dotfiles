@@ -1,0 +1,20 @@
+[2019-09-12 07:20:49.254] [exthost] [info] extension host started
+[2019-09-12 07:20:49.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-12 07:20:49.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-12 07:20:49.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-12 07:20:49.280] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/extension
+[2019-09-12 07:20:49.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-12 07:20:49.305] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2019-09-12 07:20:49.332] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-12 07:20:49.332] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-12 07:20:49.334] [exthost] [info] eager extensions activated
+[2019-09-12 07:21:06.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-12 07:21:06.995] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/extension
+[2019-09-12 07:21:07.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-12 07:21:07.013] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-09-12 07:21:07.149] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-12 07:21:07.149] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-09-12 07:22:47.214] [exthost] [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode {"startup":false,"activationEvent":"*"}
+[2019-09-12 07:22:47.214] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jacques/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.14/js/main
+[2019-09-12 07:26:09.825] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":false,"activationEvent":"*"}
+[2019-09-12 07:26:09.826] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jacques/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config

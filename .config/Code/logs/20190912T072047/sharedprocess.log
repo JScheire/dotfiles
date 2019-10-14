@@ -1,0 +1,16 @@
+[2019-09-12 07:20:51.518] [sharedprocess] [info] main {"machineId":"0b36d2cb83ceef0bd60d30f7480959c02fe09a4649cc339f0b8fb7d58b696280"}
+[2019-09-12 07:21:31.499] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-12 07:22:43.223] [sharedprocess] [info] Installing extension: monokai.theme-monokai-pro-vscode
+[2019-09-12 07:22:46.694] [sharedprocess] [info] Downloaded extension: monokai.theme-monokai-pro-vscode /tmp/ac53a0af-e0bc-4305-8156-aef91852d084
+[2019-09-12 07:22:46.980] [sharedprocess] [info] Extracted extension to /home/jacques/.vscode/extensions/.monokai.theme-monokai-pro-vscode-1.1.14: monokai.theme-monokai-pro-vscode
+[2019-09-12 07:22:46.985] [sharedprocess] [info] Renamed to /home/jacques/.vscode/extensions/monokai.theme-monokai-pro-vscode-1.1.14
+[2019-09-12 07:22:46.992] [sharedprocess] [info] Installation completed. monokai.theme-monokai-pro-vscode
+[2019-09-12 07:22:47.007] [sharedprocess] [info] Extensions installed successfully: monokai.theme-monokai-pro-vscode
+[2019-09-12 07:26:07.784] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme
+[2019-09-12 07:26:09.121] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme /tmp/64892c99-bf8b-474b-9309-4ff69c578656
+[2019-09-12 07:26:09.631] [sharedprocess] [info] Extracted extension to /home/jacques/.vscode/extensions/.equinusocio.vsc-material-theme-30.0.0: equinusocio.vsc-material-theme
+[2019-09-12 07:26:09.632] [sharedprocess] [info] Renamed to /home/jacques/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0
+[2019-09-12 07:26:09.640] [sharedprocess] [info] Installation completed. equinusocio.vsc-material-theme
+[2019-09-12 07:26:09.662] [sharedprocess] [info] Extensions installed successfully: equinusocio.vsc-material-theme
+[2019-09-12 07:27:22.252] [sharedprocess] [info] Uninstalling extension: monokai.theme-monokai-pro-vscode
+[2019-09-12 07:27:22.269] [sharedprocess] [info] Successfully uninstalled extension: monokai.theme-monokai-pro-vscode

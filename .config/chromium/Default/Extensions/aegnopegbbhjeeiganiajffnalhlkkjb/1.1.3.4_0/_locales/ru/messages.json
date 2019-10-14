@@ -1,0 +1,99 @@
+{
+   "backToResult": {
+      "message": "Back to Results"
+   },
+   "checkedSites": {
+      "description": "Site results title",
+      "message": "ПРОВЕРЕННЫЕ САЙТЫ"
+   },
+   "credits": {
+      "description": "In the help page",
+      "message": "Благодарности"
+   },
+   "extName": {
+      "description": "Extension name.",
+      "message": "by Adaware"
+   },
+   "extShortDesc": {
+      "description": "This will be in the chrome web store: must be 132 characters or less",
+      "message": "Искать в Интернете"
+   },
+   "language": {
+      "message": "Язык"
+   },
+   "onboardingDescription1": {
+      "description": "onboarding popup slide one",
+      "message": "Чтобы помочь вам избежать вредоносных сайтов, данное расширение посещает эти сайты в результатах поиска вместо вас. Затем оно отображает только реальные торрент-ссылки, отобранные из этих результатов."
+   },
+   "onboardingDescription2": {
+      "description": "onboarding popup slide two",
+      "message": "Нажмите кнопку воспроизведения, и ваше торрент-приложение начнет действовать. Вы можете использовать один из следующих способов:"
+   },
+   "onboardingDescription2a": {
+      "description": "onboarding popup slide two",
+      "message": "Magnet-ссылки"
+   },
+   "onboardingDescription2b": {
+      "description": "onboarding popup slide two",
+      "message": "Быстрее, нажмите в случае доступности."
+   },
+   "onboardingDescription2c": {
+      "description": "onboarding popup slide two",
+      "message": "Ссылки на файлы"
+   },
+   "onboardingDescription2d": {
+      "description": "onboarding popup slide two",
+      "message": "Скачайте и откройте."
+   },
+   "onboardingDescription3": {
+      "description": "onboarding popup slide three",
+      "message": "Не нашли то, что хотели? Поищите снова, используя поле в верхней части списка."
+   },
+   "onboardingHeadline1": {
+      "description": "onboarding popup slide one",
+      "message": "Добро пожаловать в Safe Torrent Scanner"
+   },
+   "onboardingHeadline2": {
+      "description": "onboarding popup slide two",
+      "message": "Перейдите по зеленой кнопке"
+   },
+   "onboardingHeadline3": {
+      "description": "onboarding popup slide three",
+      "message": "Используйте поле поиска"
+   },
+   "onboardingSubhead1": {
+      "description": "onboarding popup slide one",
+      "message": "Умный, быстрый поиск"
+   },
+   "onboardingSubhead2": {
+      "description": "onboarding popup slide two",
+      "message": "Просто нажмите \"Воспроизвести\""
+   },
+   "onboardingSubhead3": {
+      "description": "onboarding popup slide three",
+      "message": "Поле поиска"
+   },
+   "play": {
+      "description": "Torrent add button",
+      "message": "Воспроизвести"
+   },
+   "responseUser": {
+      "description": "As a response to the user",
+      "message": "Ясно!"
+   },
+   "scannedResults": {
+      "description": "Results counter",
+      "message": "просканированные результаты"
+   },
+   "searchBar": {
+      "description": "Search bar help text",
+      "message": "Искать в Интернете"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "tipp": {
+      "description": "tip",
+      "message": "Совет: добавление слова «torrent» в ваш поисковой запрос может помочь"
+   }
+}

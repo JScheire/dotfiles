@@ -1,0 +1,36 @@
+{
+   "checksum": "cb91d03f72524a7f5b21979f0a990e8f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13212295342884961",
+            "id": "7",
+            "name": "i3: i3 User’s Guide",
+            "type": "url",
+            "url": "https://i3wm.org/docs/userguide.html"
+         } ],
+         "date_added": "13212295304912312",
+         "date_modified": "13212295342884961",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13212295304912316",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13212295304912317",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

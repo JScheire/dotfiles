@@ -1,0 +1,99 @@
+{
+   "backToResult": {
+      "message": "Back to Results"
+   },
+   "checkedSites": {
+      "description": "Site results title",
+      "message": "확인된 사이트"
+   },
+   "credits": {
+      "description": "In the help page",
+      "message": "크레딧"
+   },
+   "extName": {
+      "description": "Extension name.",
+      "message": "by Adaware"
+   },
+   "extShortDesc": {
+      "description": "This will be in the chrome web store: must be 132 characters or less",
+      "message": "웹 검색"
+   },
+   "language": {
+      "message": "언어"
+   },
+   "onboardingDescription1": {
+      "description": "onboarding popup slide one",
+      "message": "악의적인 사이트에 대한 사용자의 접근을 피하기 위해, 이 확장 프로그램은 검색 결과의 사이트들을 방문한 후에 확인된 실제 토렌트 링크만을 표시합니다."
+   },
+   "onboardingDescription2": {
+      "description": "onboarding popup slide two",
+      "message": "재생 버튼을 클릭하면 나머지는 토렌트 앱이 처리합니다. 다음 중 하나를 이용할 수 있습니다:"
+   },
+   "onboardingDescription2a": {
+      "description": "onboarding popup slide two",
+      "message": "마그넷 링크"
+   },
+   "onboardingDescription2b": {
+      "description": "onboarding popup slide two",
+      "message": "더 빨라요, 가능한 경우에 클릭하세요."
+   },
+   "onboardingDescription2c": {
+      "description": "onboarding popup slide two",
+      "message": "파일 링크"
+   },
+   "onboardingDescription2d": {
+      "description": "onboarding popup slide two",
+      "message": "다운로드 후에 파일을 엽니다."
+   },
+   "onboardingDescription3": {
+      "description": "onboarding popup slide three",
+      "message": "원하는 것을 찾지 못하셨나요? 목록 위의 검색 상자를 이용해서 다시 검색해 보세요. "
+   },
+   "onboardingHeadline1": {
+      "description": "onboarding popup slide one",
+      "message": "Safe Torrent Scanner에 오신 것을 환영합니다"
+   },
+   "onboardingHeadline2": {
+      "description": "onboarding popup slide two",
+      "message": "녹색 버튼을 따라 가세요"
+   },
+   "onboardingHeadline3": {
+      "description": "onboarding popup slide three",
+      "message": "검색 상자를 이용하세요"
+   },
+   "onboardingSubhead1": {
+      "description": "onboarding popup slide one",
+      "message": "빠르고 스마트한 검색"
+   },
+   "onboardingSubhead2": {
+      "description": "onboarding popup slide two",
+      "message": "재생을 클릭하면 됩니다"
+   },
+   "onboardingSubhead3": {
+      "description": "onboarding popup slide three",
+      "message": "검색 상자"
+   },
+   "play": {
+      "description": "Torrent add button",
+      "message": "재생"
+   },
+   "responseUser": {
+      "description": "As a response to the user",
+      "message": "알겠습니다!"
+   },
+   "scannedResults": {
+      "description": "Results counter",
+      "message": "스캔 결과"
+   },
+   "searchBar": {
+      "description": "Search bar help text",
+      "message": "웹 검색"
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "tipp": {
+      "description": "tip",
+      "message": "팁: 검색 시에 \"torrent\" 단어를 추가하면 도움이 됩니다."
+   }
+}

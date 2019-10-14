@@ -1,0 +1,99 @@
+{
+   "backToResult": {
+      "message": "Back to Results"
+   },
+   "checkedSites": {
+      "description": "Site results title",
+      "message": "SPRAWDZONE STRONY"
+   },
+   "credits": {
+      "description": "In the help page",
+      "message": "Informacje"
+   },
+   "extName": {
+      "description": "Extension name.",
+      "message": "by Adaware"
+   },
+   "extShortDesc": {
+      "description": "This will be in the chrome web store: must be 132 characters or less",
+      "message": "Szukaj w sieci"
+   },
+   "language": {
+      "message": "Język"
+   },
+   "onboardingDescription1": {
+      "description": "onboarding popup slide one",
+      "message": "Rozszerzenie sprawdza strony w wynikach wyszukiwania, pomagając uniknąć niebezpiecznych witryn. Następnie wyświetla tylko linki prawdziwych torrentów zebrane z tych wyników."
+   },
+   "onboardingDescription2": {
+      "description": "onboarding popup slide two",
+      "message": "Kliknij przycisk włączania, a program do pobierania torrentów zajmie się resztą. Masz do wyboru:"
+   },
+   "onboardingDescription2a": {
+      "description": "onboarding popup slide two",
+      "message": "Linki magnet"
+   },
+   "onboardingDescription2b": {
+      "description": "onboarding popup slide two",
+      "message": "Szybsze, kliknij, gdy są dostępne."
+   },
+   "onboardingDescription2c": {
+      "description": "onboarding popup slide two",
+      "message": "Linki pliku"
+   },
+   "onboardingDescription2d": {
+      "description": "onboarding popup slide two",
+      "message": "Pobierz i otwórz je."
+   },
+   "onboardingDescription3": {
+      "description": "onboarding popup slide three",
+      "message": "Nie możesz znaleźć tego, czego szukasz? Wyszukaj ponownie, korzystając z pola znajdującego się u góry listy."
+   },
+   "onboardingHeadline1": {
+      "description": "onboarding popup slide one",
+      "message": "Witaj w Bezpiecznej przeglądarce"
+   },
+   "onboardingHeadline2": {
+      "description": "onboarding popup slide two",
+      "message": "Wciśnij zielony przycisk"
+   },
+   "onboardingHeadline3": {
+      "description": "onboarding popup slide three",
+      "message": "Użyj Pola wyszukiwania"
+   },
+   "onboardingSubhead1": {
+      "description": "onboarding popup slide one",
+      "message": "Inteligentne, szybkie wyszukiwanie"
+   },
+   "onboardingSubhead2": {
+      "description": "onboarding popup slide two",
+      "message": "Kliknij Włącz"
+   },
+   "onboardingSubhead3": {
+      "description": "onboarding popup slide three",
+      "message": "Pole wyszukiwania"
+   },
+   "play": {
+      "description": "Torrent add button",
+      "message": "Włącz"
+   },
+   "responseUser": {
+      "description": "As a response to the user",
+      "message": "Rozumiem!"
+   },
+   "scannedResults": {
+      "description": "Results counter",
+      "message": "Przeskanowane wyniki:"
+   },
+   "searchBar": {
+      "description": "Search bar help text",
+      "message": "Szukaj w sieci"
+   },
+   "settings": {
+      "message": "Ustawienia"
+   },
+   "tipp": {
+      "description": "tip",
+      "message": "Wskazówka: do wyszukiwania warto dodać słowo \"torrent\"."
+   }
+}

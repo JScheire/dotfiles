@@ -1,0 +1,66 @@
+2019/10/10-16:57:50.184 496 Reusing MANIFEST /home/jacques/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/10/10-16:57:50.184 496 Recovering log #240
+2019/10/10-16:57:50.190 496 Reusing old log /home/jacques/.config/chromium/Default/Sync Data/LevelDB/000240.log 
+2019/10/10-17:06:54.866 68d Level-0 table #244: started
+2019/10/10-17:06:54.871 68d Level-0 table #244: 149755 bytes OK
+2019/10/10-17:06:54.876 68d Delete type=0 #240
+2019/10/11-08:36:45.860 68d Level-0 table #246: started
+2019/10/11-08:36:45.868 68d Level-0 table #246: 123763 bytes OK
+2019/10/11-08:36:45.874 68d Delete type=0 #243
+2019/10/11-09:37:39.452 68d Level-0 table #248: started
+2019/10/11-09:37:39.463 68d Level-0 table #248: 134974 bytes OK
+2019/10/11-09:37:39.468 68d Delete type=0 #245
+2019/10/11-09:37:39.469 68d Compacting 4@0 + 1@1 files
+2019/10/11-09:37:39.481 68d Generated table #249@0: 3490 keys, 353438 bytes
+2019/10/11-09:37:39.481 68d Compacted 4@0 + 1@1 files => 353438 bytes
+2019/10/11-09:37:39.485 68d compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/11-09:37:39.485 68d Delete type=2 #239
+2019/10/11-09:37:39.485 68d Delete type=2 #246
+2019/10/11-09:37:39.485 68d Delete type=2 #248
+2019/10/11-09:37:39.485 68d Delete type=2 #241
+2019/10/11-09:37:39.485 68d Delete type=2 #244
+2019/10/11-09:56:23.164 68d Level-0 table #251: started
+2019/10/11-09:56:23.173 68d Level-0 table #251: 109003 bytes OK
+2019/10/11-09:56:23.179 68d Delete type=0 #247
+2019/10/11-19:31:27.786 68d Level-0 table #253: started
+2019/10/11-19:31:27.809 68d Level-0 table #253: 173245 bytes OK
+2019/10/11-19:31:27.817 68d Delete type=0 #250
+2019/10/11-20:52:28.355 68d Level-0 table #255: started
+2019/10/11-20:52:28.363 68d Level-0 table #255: 133321 bytes OK
+2019/10/11-20:52:28.370 68d Delete type=0 #252
+2019/10/12-17:45:48.937 68d Level-0 table #257: started
+2019/10/12-17:45:48.945 68d Level-0 table #257: 153290 bytes OK
+2019/10/12-17:45:48.951 68d Delete type=0 #254
+2019/10/12-17:45:48.951 68d Compacting 4@0 + 1@1 files
+2019/10/12-17:45:48.966 68d Generated table #258@0: 3652 keys, 403252 bytes
+2019/10/12-17:45:48.966 68d Compacted 4@0 + 1@1 files => 403252 bytes
+2019/10/12-17:45:48.974 68d compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/12-17:45:48.974 68d Delete type=2 #251
+2019/10/12-17:45:48.975 68d Delete type=2 #249
+2019/10/12-17:45:48.975 68d Delete type=2 #257
+2019/10/12-17:45:48.975 68d Delete type=2 #255
+2019/10/12-17:45:48.975 68d Delete type=2 #253
+2019/10/12-19:12:41.502 68d Level-0 table #260: started
+2019/10/12-19:12:41.512 68d Level-0 table #260: 99536 bytes OK
+2019/10/12-19:12:41.519 68d Delete type=0 #256
+2019/10/13-00:50:56.073 68d Level-0 table #262: started
+2019/10/13-00:50:56.079 68d Level-0 table #262: 129421 bytes OK
+2019/10/13-00:50:56.096 68d Delete type=0 #259
+2019/10/13-01:54:37.117 68d Level-0 table #264: started
+2019/10/13-01:54:37.127 68d Level-0 table #264: 112655 bytes OK
+2019/10/13-01:54:37.137 68d Delete type=0 #261
+2019/10/13-02:01:14.546 68d Level-0 table #266: started
+2019/10/13-02:01:14.557 68d Level-0 table #266: 106415 bytes OK
+2019/10/13-02:01:14.562 68d Delete type=0 #263
+2019/10/13-02:01:14.562 68d Compacting 4@0 + 1@1 files
+2019/10/13-02:01:14.597 68d Generated table #267@0: 3740 keys, 402496 bytes
+2019/10/13-02:01:14.597 68d Compacted 4@0 + 1@1 files => 402496 bytes
+2019/10/13-02:01:14.601 68d compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/13-02:01:14.601 68d Delete type=2 #258
+2019/10/13-02:01:14.601 68d Delete type=2 #266
+2019/10/13-02:01:14.601 68d Delete type=2 #260
+2019/10/13-02:01:14.602 68d Delete type=2 #262
+2019/10/13-02:01:14.602 68d Delete type=2 #264
+2019/10/13-02:06:40.250 68d Level-0 table #269: started
+2019/10/13-02:06:40.258 68d Level-0 table #269: 105782 bytes OK
+2019/10/13-02:06:40.267 68d Delete type=0 #265
