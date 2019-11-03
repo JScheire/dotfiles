@@ -1,3 +1,6 @@
-2019/10/08-14:07:20.401 afa Reusing MANIFEST /home/jacques/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/10/08-14:07:20.401 afa Recovering log #40
-2019/10/08-14:07:20.409 afa Reusing old log /home/jacques/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000040.log 
+2019/10/28-19:42:19.769 44e9 Reusing MANIFEST /home/jacques/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/28-19:42:19.770 44e9 Recovering log #138
+2019/10/28-19:42:19.792 44e9 Reusing old log /home/jacques/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000138.log 
+2019/10/28-19:42:29.380 1889 Level-0 table #142: started
+2019/10/28-19:42:29.409 1889 Level-0 table #142: 7578725 bytes OK
+2019/10/28-19:42:29.413 1889 Delete type=0 #138

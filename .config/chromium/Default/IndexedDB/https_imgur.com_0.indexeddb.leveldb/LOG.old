@@ -1,3 +1,3 @@
-2019/09/26-14:13:26.554 2254 Reusing MANIFEST /home/jacques/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/09/26-14:13:26.554 2254 Recovering log #3
-2019/09/26-14:13:26.554 2254 Reusing old log /home/jacques/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000003.log 
+2019/10/30-14:18:33.020 44e Reusing MANIFEST /home/jacques/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/30-14:18:33.020 44e Recovering log #3
+2019/10/30-14:18:33.020 44e Reusing old log /home/jacques/.config/chromium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000003.log 

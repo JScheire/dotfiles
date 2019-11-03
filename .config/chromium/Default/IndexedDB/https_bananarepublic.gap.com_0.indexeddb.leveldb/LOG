@@ -1,1 +1,3 @@
-2019/10/09-00:29:09.858 11df Reusing MANIFEST /home/jacques/.config/chromium/Default/IndexedDB/https_bananarepublic.gap.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/28-19:08:56.053 3e72 Reusing MANIFEST /home/jacques/.config/chromium/Default/IndexedDB/https_bananarepublic.gap.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/28-19:08:56.053 3e72 Recovering log #3
+2019/10/28-19:08:56.054 3e72 Reusing old log /home/jacques/.config/chromium/Default/IndexedDB/https_bananarepublic.gap.com_0.indexeddb.leveldb/000003.log 

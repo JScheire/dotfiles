@@ -1,8 +1,18 @@
 {
     "telemetry.machineId": "0b36d2cb83ceef0bd60d30f7480959c02fe09a4649cc339f0b8fb7d58b696280",
     "openedPathsList": {
-        "workspaces3": [],
-        "files2": []
+        "workspaces3": [
+            "file:///home/jacques/Documents/Projects",
+            "file:///home/jacques/Documents/Projects/img",
+            "file:///home/jacques/HackRU_Fall2019/visualization"
+        ],
+        "files2": [
+            "file:///home/jacques/Documents/Projects/projects.html",
+            "file:///home/jacques/Documents/Projects/style.css",
+            "file:///home/jacques/Documents/Projects/projectstyle.css",
+            "file:///home/jacques/Documents/Projects/aboutme.html",
+            "file:///home/jacques/Documents/Projects/index.html"
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -39,6 +49,101 @@
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
                                     "label": "&&Reopen Closed Editor"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/home/jacques/Documents/Projects",
+                                        "external": "file:///home/jacques/Documents/Projects",
+                                        "path": "/home/jacques/Documents/Projects",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Projects"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jacques/Documents/Projects/img",
+                                        "path": "/home/jacques/Documents/Projects/img",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Projects/img"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jacques/HackRU_Fall2019/visualization",
+                                        "path": "/home/jacques/HackRU_Fall2019/visualization",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/HackRU_Fall2019/visualization"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jacques/Documents/Projects/projects.html",
+                                        "path": "/home/jacques/Documents/Projects/projects.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Projects/projects.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jacques/Documents/Projects/style.css",
+                                        "path": "/home/jacques/Documents/Projects/style.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Projects/style.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jacques/Documents/Projects/projectstyle.css",
+                                        "path": "/home/jacques/Documents/Projects/projectstyle.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Projects/projectstyle.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jacques/Documents/Projects/aboutme.html",
+                                        "path": "/home/jacques/Documents/Projects/aboutme.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Projects/aboutme.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jacques/Documents/Projects/index.html",
+                                        "path": "/home/jacques/Documents/Projects/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Projects/index.html"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -152,8 +257,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder",
-                        "enabled": false
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -322,7 +426,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.toggleFullScreen",
-                                    "label": "&&Full Screen"
+                                    "label": "&&Full Screen",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleZenMode",
@@ -1008,8 +1113,8 @@
                 "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
-                "label": "Ctrl+W",
-                "userSettingsLabel": "ctrl+w"
+                "label": "Ctrl+Shift+W",
+                "userSettingsLabel": "ctrl+shift+w"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q",
@@ -1362,15 +1467,18 @@
     "themeBackground": "#263238",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/jacques/.config/Code/Backups/1568286894821",
+            "folder": "file:///home/jacques/Documents/Projects",
+            "backupPath": "/home/jacques/.config/Code/Backups/f71f33f486f1d286b3277d60c8069d0c",
             "uiState": {
-                "mode": 1,
-                "x": 0,
-                "y": 0,
-                "width": 1920,
-                "height": 1057
+                "mode": 3,
+                "display": 21691165392765024,
+                "width": 1880,
+                "height": 980,
+                "x": 20,
+                "y": 60
             }
         },
         "openedWindows": []
-    }
+    },
+    "pickerWorkingDir": "/home/jacques/Documents"
 }

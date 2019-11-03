@@ -1,15 +1,49 @@
-2019/10/09-15:54:42.870 24c1 Reusing MANIFEST /home/jacques/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/10/09-15:54:42.870 24c1 Recovering log #40
-2019/10/09-15:54:42.886 24c1 Reusing old log /home/jacques/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000040.log 
-2019/10/09-15:54:51.899 2644 Level-0 table #44: started
-2019/10/09-15:54:51.916 2644 Level-0 table #44: 4484348 bytes OK
-2019/10/09-15:54:51.923 2644 Delete type=0 #40
-2019/10/09-15:54:51.924 2644 Compacting 4@0 + 1@1 files
-2019/10/09-15:54:51.937 2644 Generated table #45@0: 23 keys, 655788 bytes
-2019/10/09-15:54:51.937 2644 Compacted 4@0 + 1@1 files => 655788 bytes
-2019/10/09-15:54:51.946 2644 compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/10/09-15:54:51.946 2644 Delete type=2 #44
-2019/10/09-15:54:51.947 2644 Delete type=2 #35
-2019/10/09-15:54:51.947 2644 Delete type=2 #33
-2019/10/09-15:54:51.948 2644 Delete type=2 #41
-2019/10/09-15:54:51.948 2644 Delete type=2 #38
+2019/10/28-20:57:53.312 5349 Reusing MANIFEST /home/jacques/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/28-20:57:53.312 5349 Recovering log #141
+2019/10/28-20:57:53.324 5349 Reusing old log /home/jacques/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000141.log 
+2019/10/28-20:58:01.043 1889 Level-0 table #145: started
+2019/10/28-20:58:01.071 1889 Level-0 table #145: 4613447 bytes OK
+2019/10/28-20:58:01.076 1889 Delete type=0 #141
+2019/10/28-20:58:01.076 1889 Compacting 4@0 + 2@1 files
+2019/10/28-20:58:01.109 1889 Generated table #146@0: 16 keys, 4080626 bytes
+2019/10/28-20:58:01.116 1889 Generated table #147@0: 8 keys, 4211 bytes
+2019/10/28-20:58:01.116 1889 Compacted 4@0 + 2@1 files => 4084837 bytes
+2019/10/28-20:58:01.120 1889 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/10/28-20:58:01.120 1889 Delete type=2 #139
+2019/10/28-20:58:01.120 1889 Delete type=2 #145
+2019/10/28-20:58:01.120 1889 Delete type=2 #137
+2019/10/28-20:58:01.120 1889 Delete type=2 #134
+2019/10/28-20:58:01.120 1889 Delete type=2 #133
+2019/10/28-20:58:01.120 1889 Delete type=2 #142
+2019/10/28-20:58:01.963 1889 Level-0 table #149: started
+2019/10/28-20:58:01.990 1889 Level-0 table #149: 7567042 bytes OK
+2019/10/28-20:58:01.996 1889 Delete type=0 #144
+2019/10/29-14:01:36.051 1889 Level-0 table #151: started
+2019/10/29-14:01:36.096 1889 Level-0 table #151: 4610352 bytes OK
+2019/10/29-14:01:36.101 1889 Delete type=0 #148
+2019/10/29-14:11:36.195 1889 Level-0 table #153: started
+2019/10/29-14:11:36.245 1889 Level-0 table #153: 7489524 bytes OK
+2019/10/29-14:11:36.250 1889 Delete type=0 #150
+2019/10/29-15:12:06.197 1889 Level-0 table #155: started
+2019/10/29-15:12:06.225 1889 Level-0 table #155: 4610171 bytes OK
+2019/10/29-15:12:06.230 1889 Delete type=0 #152
+2019/10/29-15:12:06.232 1889 Compacting 4@0 + 2@1 files
+2019/10/29-15:12:06.326 1889 Generated table #156@0: 16 keys, 4081722 bytes
+2019/10/29-15:12:06.354 1889 Generated table #157@0: 8 keys, 4211 bytes
+2019/10/29-15:12:06.354 1889 Compacted 4@0 + 2@1 files => 4085933 bytes
+2019/10/29-15:12:06.358 1889 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/10/29-15:12:06.359 1889 Delete type=2 #147
+2019/10/29-15:12:06.359 1889 Delete type=2 #151
+2019/10/29-15:12:06.359 1889 Delete type=2 #155
+2019/10/29-15:12:06.359 1889 Delete type=2 #149
+2019/10/29-15:12:06.359 1889 Delete type=2 #153
+2019/10/29-15:12:06.359 1889 Delete type=2 #146
+2019/10/30-09:52:00.415 1889 Level-0 table #159: started
+2019/10/30-09:52:00.475 1889 Level-0 table #159: 7567491 bytes OK
+2019/10/30-09:52:00.482 1889 Delete type=0 #154
+2019/10/30-10:12:24.045 1889 Level-0 table #161: started
+2019/10/30-10:12:24.064 1889 Level-0 table #161: 4610356 bytes OK
+2019/10/30-10:12:24.071 1889 Delete type=0 #158
+2019/10/30-12:17:11.918 1889 Level-0 table #163: started
+2019/10/30-12:17:11.974 1889 Level-0 table #163: 7641421 bytes OK
+2019/10/30-12:17:11.979 1889 Delete type=0 #160

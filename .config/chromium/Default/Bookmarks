@@ -1,5 +1,5 @@
 {
-   "checksum": "38a24d3c2b599eb4482378e0aa422bb6",
+   "checksum": "aee2ef1ae2a8ca3d5af37f3e6c6c1b4e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -26,7 +26,7 @@
                "last_visited_desktop": "13197780952526799"
             },
             "name": "LINNMON / ADILS Table - white - IKEA",
-            "sync_transaction_version": "7",
+            "sync_transaction_version": "78",
             "type": "url",
             "url": "http://www.ikea.com/us/en/catalog/products/S29932181/"
          }, {
@@ -49,6 +49,13 @@
             "sync_transaction_version": "9",
             "type": "url",
             "url": "https://dota2.becomethegamer.com/dashboard"
+         }, {
+            "date_added": "13216741249506496",
+            "id": "193",
+            "name": "",
+            "sync_transaction_version": "104",
+            "type": "url",
+            "url": "http://huffp.st/EIEZMIv?fbclid=IwAR2N91zi4OLo885gdSlcM84FLfnlbs8m_KeHzXCTdpoXyWz7AgZeHRo-syQ"
          }, {
             "date_added": "13141863913626740",
             "id": "15",
@@ -76,7 +83,7 @@
                "last_visited_desktop": "13176432232055981"
             },
             "name": "Aggie.io",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "86",
             "type": "url",
             "url": "https://aggie.io/"
          }, {
@@ -257,7 +264,7 @@
                "last_visited_desktop": "13170276823287431"
             },
             "name": "Why Was The Kite Runner Banned? - Video & Lesson Transcript | Study.com",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "97",
             "type": "url",
             "url": "https://study.com/academy/lesson/why-was-the-kite-runner-banned.html"
          }, {
@@ -597,7 +604,7 @@
                "last_visited_desktop": "13205116517953522"
             },
             "name": "Striped French Terry Crewneck Sweatshirt - Brooks Brothers",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "105",
             "type": "url",
             "url": "https://www.brooksbrothers.com/Striped-French-Terry-Crewneck-Sweatshirt/RP00205,default,pd.html?dwvar_RP00205_Color=NAVY&contentpos=9&cgid=0298"
          }, {
@@ -677,7 +684,7 @@
                "last_visited_desktop": "13205897880532719"
             },
             "name": "List by Course | View / Print Schedule | WebReg",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "80",
             "type": "url",
             "url": "https://sims.rutgers.edu/webreg/refresh.htm"
          }, {
@@ -917,7 +924,7 @@
                "last_visited_desktop": "13190172815973830"
             },
             "name": "cppreference.com",
-            "sync_transaction_version": "1",
+            "sync_transaction_version": "98",
             "type": "url",
             "url": "https://en.cppreference.com/w/"
          }, {
@@ -1047,7 +1054,7 @@
                "last_visited_desktop": "13195189563847659"
             },
             "name": "(2) Where did you find projects to do to get better at programming? - Quora",
-            "sync_transaction_version": "23",
+            "sync_transaction_version": "107",
             "type": "url",
             "url": "https://www.quora.com/Where-did-you-find-projects-to-do-to-get-better-at-programming"
          }, {
@@ -1319,9 +1326,269 @@
             "sync_transaction_version": "28",
             "type": "url",
             "url": "https://www.linkedin.com/jobs/view/1494607576/"
+         }, {
+            "children": [ {
+               "date_added": "13215584075968871",
+               "id": "155",
+               "name": "JScheire/CS112: Files for Data Structures",
+               "sync_transaction_version": "55",
+               "type": "url",
+               "url": "https://github.com/JScheire/CS112"
+            }, {
+               "date_added": "13215584075969424",
+               "id": "156",
+               "name": "Shunting Yard Algorithm | Brilliant Math & Science Wiki",
+               "sync_transaction_version": "56",
+               "type": "url",
+               "url": "https://brilliant.org/wiki/shunting-yard-algorithm/"
+            }, {
+               "date_added": "13215584075969694",
+               "id": "157",
+               "name": "(73) Comp Sci in 5: Shunting Yard Algorithm - YouTube",
+               "sync_transaction_version": "57",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Wz85Hiwi5MY"
+            }, {
+               "date_added": "13215584075969876",
+               "id": "158",
+               "name": "IWTL: How to make a website from scratch : IWantToLearn",
+               "sync_transaction_version": "58",
+               "type": "url",
+               "url": "https://www.reddit.com/r/IWantToLearn/comments/8tdw63/iwtl_how_to_make_a_website_from_scratch/"
+            }, {
+               "date_added": "13215584075970037",
+               "id": "159",
+               "name": "Domain Name Registration Search Results • Namecheap.com",
+               "sync_transaction_version": "59",
+               "type": "url",
+               "url": "https://www.namecheap.com/domains/registration/results.aspx?domain=jscheire.com"
+            }, {
+               "date_added": "13215584075971271",
+               "id": "160",
+               "name": "Build a Personal Website with HTML and CSS (Part 1)",
+               "sync_transaction_version": "60",
+               "type": "url",
+               "url": "https://medium.com/@ianjsikes/build-a-personal-website-with-html-and-css-part-1-3013fb5dacd4"
+            }, {
+               "date_added": "13215584075971506",
+               "id": "161",
+               "name": "What framework do you use for your personal website / blog? : webdev",
+               "sync_transaction_version": "61",
+               "type": "url",
+               "url": "https://www.reddit.com/r/webdev/comments/asqb91/what_framework_do_you_use_for_your_personal/"
+            }, {
+               "date_added": "13215584075971663",
+               "id": "162",
+               "name": "How do you create a personal website using HTML, CSS, PHP and JavaScript? - Quora",
+               "sync_transaction_version": "107",
+               "type": "url",
+               "url": "https://www.quora.com/How-do-you-create-a-personal-website-using-HTML-CSS-PHP-and-JavaScript"
+            }, {
+               "date_added": "13215584075971796",
+               "id": "163",
+               "name": "foltz.io/style.css at master · Foltik/foltz.io",
+               "sync_transaction_version": "63",
+               "type": "url",
+               "url": "https://github.com/Foltik/foltz.io/blob/master/html/style.css"
+            }, {
+               "date_added": "13215584075971911",
+               "id": "164",
+               "name": "Jack Foltz",
+               "sync_transaction_version": "54",
+               "type": "url",
+               "url": "https://foltz.io/"
+            }, {
+               "date_added": "13215584075972002",
+               "id": "165",
+               "name": "Bryan Tamada | Portfolio",
+               "sync_transaction_version": "64",
+               "type": "url",
+               "url": "http://btamada.github.io/"
+            }, {
+               "date_added": "13215584075972102",
+               "id": "166",
+               "name": "Github Icon | Font Awesome",
+               "sync_transaction_version": "65",
+               "type": "url",
+               "url": "https://fontawesome.com/icons/github"
+            }, {
+               "date_added": "13215584075972314",
+               "id": "167",
+               "name": "html - Want to make Font Awesome icons clickable - Stack Overflow",
+               "sync_transaction_version": "66",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/26814297/want-to-make-font-awesome-icons-clickable"
+            }, {
+               "date_added": "13215584075972488",
+               "id": "168",
+               "name": "Get Started with Font Awesome",
+               "sync_transaction_version": "67",
+               "type": "url",
+               "url": "https://fontawesome.com/v3.2.1/get-started/"
+            }, {
+               "date_added": "13215584075972616",
+               "id": "169",
+               "name": "Get Started with Font Awesome",
+               "sync_transaction_version": "68",
+               "type": "url",
+               "url": "https://fontawesome.com/v4.7.0/get-started/"
+            }, {
+               "date_added": "13215584075972727",
+               "id": "170",
+               "name": "(73) How to Use Font Awesome Icons offline | HTML CSS - YouTube",
+               "sync_transaction_version": "69",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=e6LXQnWhsp8"
+            }, {
+               "date_added": "13215584075972843",
+               "id": "171",
+               "name": "Hosting Font Awesome Yourself | Font Awesome",
+               "sync_transaction_version": "70",
+               "type": "url",
+               "url": "https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself"
+            }, {
+               "date_added": "13215584075972962",
+               "id": "172",
+               "name": "Jacques' Personal Website",
+               "sync_transaction_version": "54",
+               "type": "url",
+               "url": "file:///home/jacques/Documents/Projects/index.html"
+            }, {
+               "date_added": "13215584075973076",
+               "id": "173",
+               "name": "FTBUltimateReloaded-1.9.0-1.12.2.zip - Files - FTB Ultimate Reloaded - Modpacks - Projects - Feed The Beast",
+               "sync_transaction_version": "71",
+               "type": "url",
+               "url": "https://www.feed-the-beast.com/projects/ftb-ultimate-reloaded/files/2778968"
+            }, {
+               "date_added": "13215584075973195",
+               "id": "174",
+               "name": "CSS Properties | HTML Dog",
+               "sync_transaction_version": "72",
+               "type": "url",
+               "url": "https://htmldog.com/references/css/properties/"
+            }, {
+               "date_added": "13215584075973354",
+               "id": "175",
+               "name": "9 Important CSS Properties You Must Know | Zell Liew",
+               "sync_transaction_version": "73",
+               "type": "url",
+               "url": "https://zellwk.com/blog/9-important-css-properties-you-must-know/"
+            }, {
+               "date_added": "13215584075973480",
+               "id": "176",
+               "name": "grid-area - CSS: Cascading Style Sheets | MDN",
+               "sync_transaction_version": "74",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-area"
+            }, {
+               "date_added": "13215584075973590",
+               "id": "177",
+               "name": "HTML link rel Attribute",
+               "sync_transaction_version": "75",
+               "type": "url",
+               "url": "https://www.w3schools.com/tags/att_link_rel.asp"
+            }, {
+               "date_added": "13215584075973699",
+               "id": "178",
+               "name": "CSS Flexbox (Flexible Box)",
+               "sync_transaction_version": "76",
+               "type": "url",
+               "url": "https://www.w3schools.com/css/css3_flexbox.asp"
+            } ],
+            "date_added": "13215584075967730",
+            "date_modified": "13217130930459541",
+            "id": "154",
+            "name": "shid",
+            "sync_transaction_version": "54",
+            "type": "folder"
+         }, {
+            "date_added": "13215737239859225",
+            "id": "180",
+            "name": "twelve70",
+            "sync_transaction_version": "83",
+            "type": "url",
+            "url": "https://www.twelve70.com/"
+         }, {
+            "date_added": "13215993234390862",
+            "id": "182",
+            "name": "Handling Categorical Data in Python (article) - DataCamp",
+            "sync_transaction_version": "85",
+            "type": "url",
+            "url": "https://www.datacamp.com/community/tutorials/categorical-data"
+         }, {
+            "date_added": "13216245078969432",
+            "id": "184",
+            "name": "honsontran (Honson Tran) / Repositories",
+            "sync_transaction_version": "94",
+            "type": "url",
+            "url": "https://github.com/honsontran?tab=repositories"
+         }, {
+            "date_added": "13216284609455276",
+            "id": "186",
+            "name": "High-Speed Booster Track | Technic Pack Wiki | FANDOM powered by Wikia",
+            "sync_transaction_version": "95",
+            "type": "url",
+            "url": "https://technicpack.fandom.com/wiki/High-Speed_Booster_Track"
+         }, {
+            "date_added": "13216406180722643",
+            "id": "188",
+            "name": "Harris Christiansen",
+            "sync_transaction_version": "96",
+            "type": "url",
+            "url": "http://harrischristiansen.com/"
+         }, {
+            "date_added": "13216408077959267",
+            "id": "189",
+            "name": "(76) Smooth Page Transitions With Javascript Tutorial - YouTube",
+            "sync_transaction_version": "96",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=1dJT-99KpiI"
+         }, {
+            "date_added": "13216445475648996",
+            "id": "190",
+            "name": "Home | Neeraj Aggarwal",
+            "sync_transaction_version": "100",
+            "type": "url",
+            "url": "https://neerajaggarwal.com/"
+         }, {
+            "date_added": "13216502586056632",
+            "id": "191",
+            "name": "Projects | Neeraj Aggarwal",
+            "sync_transaction_version": "101",
+            "type": "url",
+            "url": "https://neerajaggarwal.com/projects/"
+         }, {
+            "date_added": "13216710517414611",
+            "id": "192",
+            "name": "(78) 마틴스미스 (Martin Smith) - 봄 그리고 너 (Paint on Spring) MV - YouTube",
+            "sync_transaction_version": "102",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=npU-ZlTPNtA"
+         }, {
+            "date_added": "13216756075167532",
+            "id": "194",
+            "name": "Teach Yourself Computer Science",
+            "sync_transaction_version": "105",
+            "type": "url",
+            "url": "https://teachyourselfcs.com/#networking"
+         }, {
+            "date_added": "13216777268118592",
+            "id": "195",
+            "name": "Italian Car Coat | Banana Republic",
+            "sync_transaction_version": "105",
+            "type": "url",
+            "url": "https://bananarepublic.gap.com/browse/product.do?pid=473497012&cid=1140927&pcid=1016720&vid=1&grid=pds_34_77_1#pdp-page-content"
+         }, {
+            "date_added": "13216777282797237",
+            "id": "196",
+            "name": "Italian Herringbone Topcoat | Banana Republic",
+            "sync_transaction_version": "105",
+            "type": "url",
+            "url": "https://bananarepublic.gap.com/browse/product.do?pid=485940002&cid=1140927&pcid=1016720&vid=1&grid=pds_29_77_1"
          } ],
          "date_added": "13212685297972792",
-         "date_modified": "13215474977587690",
+         "date_modified": "13217130930459548",
          "id": "1",
          "name": "Bookmarks bar",
          "type": "folder"
@@ -1341,7 +1608,7 @@
          "name": "Other bookmarks",
          "type": "folder"
       },
-      "sync_transaction_version": "28",
+      "sync_transaction_version": "107",
       "synced": {
          "children": [ {
             "date_added": "13141312665888853",

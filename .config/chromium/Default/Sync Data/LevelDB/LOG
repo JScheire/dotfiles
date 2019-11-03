@@ -1,6 +1,30 @@
-2019/10/14-08:31:10.872 48e Reusing MANIFEST /home/jacques/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/10/14-08:31:10.872 48e Recovering log #268
-2019/10/14-08:31:10.874 48e Reusing old log /home/jacques/.config/chromium/Default/Sync Data/LevelDB/000268.log 
-2019/10/14-08:39:09.323 65c Level-0 table #272: started
-2019/10/14-08:39:09.347 65c Level-0 table #272: 154144 bytes OK
-2019/10/14-08:39:09.353 65c Delete type=0 #268
+2019/11/02-19:58:37.825 41e Reusing MANIFEST /home/jacques/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/11/02-19:58:37.825 41e Recovering log #706
+2019/11/02-19:58:37.825 41e Reusing old log /home/jacques/.config/chromium/Default/Sync Data/LevelDB/000706.log 
+2019/11/02-20:10:45.301 6bc Level-0 table #710: started
+2019/11/02-20:10:45.311 6bc Level-0 table #710: 106979 bytes OK
+2019/11/02-20:10:45.318 6bc Delete type=0 #706
+2019/11/02-20:26:41.892 6bc Level-0 table #712: started
+2019/11/02-20:26:41.901 6bc Level-0 table #712: 97281 bytes OK
+2019/11/02-20:26:41.906 6bc Delete type=0 #709
+2019/11/02-20:59:11.024 6bc Level-0 table #714: started
+2019/11/02-20:59:11.036 6bc Level-0 table #714: 107366 bytes OK
+2019/11/02-20:59:11.041 6bc Delete type=0 #711
+2019/11/02-20:59:11.042 6bc Compacting 4@0 + 1@1 files
+2019/11/02-20:59:11.062 6bc Generated table #715@0: 5449 keys, 448096 bytes
+2019/11/02-20:59:11.062 6bc Compacted 4@0 + 1@1 files => 448096 bytes
+2019/11/02-20:59:11.065 6bc compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/11/02-20:59:11.066 6bc Delete type=2 #705
+2019/11/02-20:59:11.066 6bc Delete type=2 #707
+2019/11/02-20:59:11.066 6bc Delete type=2 #710
+2019/11/02-20:59:11.066 6bc Delete type=2 #714
+2019/11/02-20:59:11.066 6bc Delete type=2 #712
+2019/11/02-21:09:34.141 6bc Level-0 table #717: started
+2019/11/02-21:09:34.150 6bc Level-0 table #717: 105766 bytes OK
+2019/11/02-21:09:34.155 6bc Delete type=0 #713
+2019/11/02-21:16:39.599 6bc Level-0 table #719: started
+2019/11/02-21:16:39.613 6bc Level-0 table #719: 99750 bytes OK
+2019/11/02-21:16:39.617 6bc Delete type=0 #716
+2019/11/02-21:36:18.174 6bc Level-0 table #721: started
+2019/11/02-21:36:18.178 6bc Level-0 table #721: 115364 bytes OK
+2019/11/02-21:36:18.186 6bc Delete type=0 #718
